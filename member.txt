@@ -1,4 +1,4 @@
 b b
 d
-c
+c c
 e
